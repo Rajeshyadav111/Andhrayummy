@@ -1,0 +1,56 @@
+
+-----Naming conventions in Java:----
+
+Class:(nouns) Andhra,Telangana,Tamilanadu,Delhi
+
+Interface:(adjective) Printable,Beautiful,White.
+
+Method:(verb) sleep,running,playing,sleeperBus,actionEvent.
+
+Variable: not start with &(ampersand),$(dollar),_(underscore), int,short,longBoolean.
+
+Package: if the name contains multiple words, it should be seperated by dots(.) EX: java.util,java.lang.
+
+Constant: It should be in uppercase  letter, if the name contains multiple words, it should be seperated by an(_) EX:MAX_PRIORITY
+
+
+CAPITAL LETTERS: CLASS,INTERFACE,CONSTANT.
+
+Small letters: method,variable,package.
+
+
+----Advantages of Method----------
+
+code reusability
+
+code optimization
+
+-------3 Ways to intialize Object in Java--------
+
+By reference variable
+By method
+By constructor
+
+-----different ways to create an object in Java-----
+
+By new Keyword
+By newInstance()method
+By clone()method
+By deserialization
+By factory method etc.
+
+getters are reuturn type is there, but setters are no return type.
+
+--Abstract Method:  The method doesn't has method body is known as abstract method.
+
+-----Constructor-----
+
+a) no-arg constructor b) perameterized constructor
+
+1.Constructor name must be the same as its class name.
+
+2. A Constructor must have no explicit return type.
+
+3. A Java Constructor cannot be abstract,static,final  and synchronized.
+
+          
